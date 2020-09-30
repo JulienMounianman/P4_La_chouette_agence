@@ -680,8 +680,8 @@ p {
     font-size: 15px;
 }
 
-.textfontsize18px {
-  font-size: 15px;
+.textfontsize20px {
+  font-size: 20px;
   width: 600px;
   margin: auto;
 }
@@ -1049,7 +1049,7 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
-    .textfontsize18px {
-      width: 350px;
+    .textfontsize20px {
+      width: 320px;
     }
 }
