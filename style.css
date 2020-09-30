@@ -680,6 +680,12 @@ p {
     font-size: 15px;
 }
 
+.textfontsize18px {
+  font-size: 15px;
+  width: 600px;
+  margin: auto;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
